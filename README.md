@@ -68,13 +68,9 @@ GreenUniv 프로젝트는 **대학 홈페이지**와 **학사 관리 시스템**
 ---
 
 ## 🚀 실행 방법
-1. 저장소 클론  
-   ```bash
-   git clone https://github.com/Lee-MJ01/Project1_1team.git
-   ```
-2. IDE(Eclipse/IntelliJ)에서 Import → Dynamic Web Project
-3. DB 연결 설정 (/resources/db.properties)
-4. Tomcat 실행 → http://localhost:8080/greenUniv 접속
+1. IDE(Eclipse/IntelliJ)에서 Import → Dynamic Web Project
+2. DB 연결 설정 (/resources/db.properties)
+3. Tomcat 실행 → http://localhost:8080/greenUniv 접속
   
 
 ## 📂 디렉터리 구조
